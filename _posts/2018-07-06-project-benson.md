@@ -43,4 +43,4 @@ For the highest impact of our street team, we recommend our street team to promo
 
 
 
-_*This analysis was done as a collaborative effort between Belle, Harmeet, Irene, and Tarek
+_*This analysis was done as a collaborative effort between Belle, Harmeet, Irene, and Tarek*_
