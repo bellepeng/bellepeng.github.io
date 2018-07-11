@@ -1,5 +1,5 @@
 ---
-Layout: post
+\\Layout: post
 Title: Making recommendation on most effective campaigning for WTWY
 ---
 
@@ -25,19 +25,17 @@ Our analysis focused on finding the best location that captures these desirable 
 
 We determined the highest volume subway stations using the MTA data. Our analysis suggests the 10 highest volume subway stations are Penn Station (with a whopping 25 million entries and exits daily), Grand Central (22 million), 34th St / Herald Square, 14th St / Union Square as shown below. 
 
-![MTA Bar][MTA]
+![MTA](/images/mta_bar.png)
 
 However, volume isn't the only factor. Our target demographics is the high income working professional women, because this segment is more likely to support our cause of participation of women in Tech. We want to hone into the most targetted neighborhoods with the highest volumne. We answer this puzzle using the Census data to find a high concenation of high income women. Amongst these top 10 stations identified above, we found below to be the top 5 neighborhoods with the highest % of women and the highest median income. 
 
-![Census Table][Census]
+![Census Table](/images/census_table.png)
 
 
 
 Finally, to maximize the impact of the street team's efforts, we use Yelp data to identify the most popular restaurants with the longest waits. We believe that high income working professional women are more likely to dine out due to having the disposable income and the lack of time. While people are waiting for their tables outside of restaurants, they are more open to having a more meaningful conversation with our street team. Considering the same top 10 stations, we ranked the top 5 neighborhoods with the most popular restaurants. We found Union Square and Penn Station to be again the winners. At these two stations, the most popular restaurants are listed below. 
 
-```
-![Neighborhoods with the most popular restaurants sourced from Yelp][Yelp]
-```
+![Yelp](/images/yelp.png)
 
 ### Recommendation
 
@@ -45,9 +43,4 @@ For the highest impact of our street team, we recommend our street team to promo
 
 
 
-_*This analysis was done as a collaborative effort between Belle, Harmeet, Irene, and Tarek*_
-
-[Yelp]: 
-[Census]: 
-[MTA]: 
-
+_*This analysis was done as a collaborative effort between Belle, Harmeet, Irene, and Tarek
