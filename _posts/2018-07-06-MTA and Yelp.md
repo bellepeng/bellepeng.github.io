@@ -1,9 +1,7 @@
 ---
 \\Layout: post
-Title: Making recommendation on most effective campaigning for WTWY
+Title: Making recommendation on most effective campaigning for WTWY 
 ---
-
-## 
 
 ### Problem 
 
