@@ -1,7 +1,3 @@
-\\Layout: post
-
-## Coffee Coffee Coffee   _A Data Science Project_ 
-
 For 99% of my conscious life, coffee has been a daily routine. In my quest to better understand this magical drink, I booked a trip to Colombia to visit a coffee farm, where some of the world's finest coffees are grown. This is what a coffee plant looks like for those of you unfamiliar.
 
 ![Highest Coffee Producing Countries](/images/coffee3.png)
@@ -45,7 +41,7 @@ For the purpose of predicting the total quality score, I primarily used Ordinary
 | Model 4: OLS, logged and polynomial features, LASSO regularization |                1.526                |          alpha = 0.05          |
 | Model 5: OLS, logged and polynomial features, Ridge regularization |                6.405                |          alpha = 1.0           |
 
-After numerous iterations of modeling, I chose model 3 for the best cross validation mean squared error. This model achieved about 60% prediction rate (adjusted \$R^2$\) on test data, and averaging about 1.2 points off on a 100 point scale. The respectable prediciton rate of my model indicates that there is linear structure in the features, so what can we tell about the coffee quality? 
+After numerous iterations of modeling, I chose model 3 for the best cross validation mean squared error. This model achieved about 60% prediction rate (adjusted $R^2$\) on test data, and averaging about 1.2 points off on a 100 point scale. The respectable prediciton rate of my model indicates that there is linear structure in the features, so what can we tell about the coffee quality? 
 
 ### Results: The good - The Bad - No Ugly
 
