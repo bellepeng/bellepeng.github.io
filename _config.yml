@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               A Github Blog
-tagline:             A Moderately Okay Data Science Blog
+title:               A Data Science Github Blog
+tagline:             Various Data Science Projects
 url:                 http://bellepeng.github.io/
 paginate:            2
 baseurl:             ""
