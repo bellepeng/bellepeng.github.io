@@ -1,3 +1,8 @@
+---
+layout: post
+title: Coffee Coffee Coffee
+---
+
 For 99% of my conscious life, coffee has been a daily routine. In my quest to better understand this magical drink, I booked a trip to Colombia to visit a coffee farm, where some of the world's finest coffees are grown. This is what a coffee plant looks like for those of you unfamiliar.
 
 ![Highest Coffee Producing Countries](/images/coffee3.png)
